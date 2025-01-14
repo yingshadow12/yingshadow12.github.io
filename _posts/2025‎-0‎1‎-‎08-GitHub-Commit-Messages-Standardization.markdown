@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "GitHub提交信息（commit messages）的规范化"
-date:       ‎2025‎-‎1‎-‎8‎ ‏‎9:47:06
+date:       ‎2025‎-‎01‎-0‎8‎ ‏‎9:47:06
 author:     "yingshadow12"
 header-style: text
 catalog:    true
