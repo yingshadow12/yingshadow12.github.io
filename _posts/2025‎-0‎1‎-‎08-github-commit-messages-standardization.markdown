@@ -1,11 +1,9 @@
 ---
 layout:     post
-title:      "GitHub提交信息（commit messages）的规范化"
+title:      "hello"
 author:     "yingshadow12"
 tags:
-    - GitHub提交信息
-    - GitHub Commit Messages
-    - 教程
+    - hello
 ---
 # GitHub提交信息（commit messages）的规范化
 在 GitHub 或其他 Git 仓库中，提交信息（commit messages）的规范化是一个重要的最佳实践，有助于团队成员和未来的开发者理解提交的目的。常见的代码规范中，feat、chore、fix 等都是常见的提交类型。它们源自于 Conventional Commits 规范，旨在提高提交信息的可读性和自动化处理能力。
