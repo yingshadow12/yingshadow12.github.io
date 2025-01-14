@@ -3,6 +3,8 @@ layout:     post
 title:      "离线安装Openssh"
 date:       ‎2024‎-‎12‎-‎20 ‏‎14:33:58
 author:     "yingshadow12"
+header-style: text
+catalog:    true
 tags:
     - Openssh
     - ssh
