@@ -3,6 +3,8 @@ layout:     post
 title:      "GitHub提交信息（commit messages）的规范化"
 date:       ‎2025‎-‎1‎-‎8‎ ‏‎9:47:06
 author:     "yingshadow12"
+header-style: text
+catalog:    true
 tags:
     - GitHub提交信息
     - GitHub Commit Messages
