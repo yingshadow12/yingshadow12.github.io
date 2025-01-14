@@ -3,6 +3,8 @@ layout:     post
 title:      "FFmpeg 安装指南"
 date:       ‎2025‎-‎1‎-‎3 ‏‎22:09:18
 author:     "yingshadow12"
+header-style: text
+catalog:    true
 tags:
     - FFmpeg
     - 配置
