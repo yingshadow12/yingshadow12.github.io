@@ -3,6 +3,8 @@ layout:     post
 title:      "ssh配置教程"
 date:       2024‎-‎12‎-21‎ ‎14:33:55
 author:     "yingshadow12"
+header-style:text
+catalog:    true
 tags:
     - ssh配置
     - 教程
