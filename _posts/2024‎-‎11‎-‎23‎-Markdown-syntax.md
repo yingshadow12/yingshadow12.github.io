@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Markdown语法"
-date:       2024‎-‎11‎-‎23‎ ‏‎11:02:16
 author:     "yingshadow12"
 header-style: text
 catalog:    true
