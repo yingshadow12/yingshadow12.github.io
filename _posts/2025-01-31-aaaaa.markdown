@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      "M"
+author:     "yingshadow12"
+header-style: text
+catalog:    true
+tags:
+---
 asdasd
 asd
 
