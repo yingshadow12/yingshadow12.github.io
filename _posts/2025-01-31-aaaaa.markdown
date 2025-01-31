@@ -1,9 +1,5 @@
 ---
 layout:     post
-title:      "M"
-author:     "yingshadow12"
-tags:
-    - 1
 ---
 asdasd
 asd
