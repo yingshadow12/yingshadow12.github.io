@@ -1,8 +1,7 @@
 ---
 layout:     post
 title:      "M法"
-author:     "yingshadow12"
-header-style: text
+author:     "yingshadow"
 ---
 asdasd
 asd
