@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "FFmpeg 安装指南"
-date:       ‎2025‎-‎1‎-‎3 ‏‎22:09:18
+date:       ‎2025‎-0‎1‎-0‎3 ‏‎22:09:18
 author:     "yingshadow12"
 header-style: text
 catalog:    true
