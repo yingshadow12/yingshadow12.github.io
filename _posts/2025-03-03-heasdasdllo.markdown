@@ -1,10 +1,6 @@
 ---
-layout: post
-title: "12asdcc"
-date: 2025‎-‎03‎-0‎4 ‏‎22:59:18
-author: "yingshadow12"
-标签:
-    - hello
+title: "Your Post Title"
+date: 2025-03-03 22:09:18 +0000
 ---
 heelo
 he
