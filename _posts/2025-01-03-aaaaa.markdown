@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "FFmpeg 安装指南"
-date:       ‎2025‎-‎01‎-0‎3 ‏‎22:09:18
+date: ‎2025‎-‎01‎-03 ‏‎22:09:18
 author:     "yingshadow12"
 tags:
     - FFmpeg
